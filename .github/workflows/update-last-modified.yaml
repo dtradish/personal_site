@@ -32,4 +32,3 @@ jobs:
             git add index.html
             git commit -m "Update last modified date"
             git push
-          fi
